@@ -28,6 +28,6 @@ Achievements
 
 Find me...
 ---
-[CV](cyrusknopf.com/cv) 
+[CV](https://cyrusknopf.com/cv) 
 
-[LinkedIn](linkedin.com/in/cyrusknopf)
+[LinkedIn](https://linkedin.com/in/cyrusknopf)
