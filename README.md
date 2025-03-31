@@ -10,8 +10,6 @@
 >
 > A hackathon challenge hand-coded by me and a collaborator, involving our own server in Golang, async handling of user submissions, and PostgreSQL database for user stat persistence
 
-**Looking towards...**
-> Implementing and optimising the elipsoid method for convex optimisation, in C++
 
 
 Achievements
