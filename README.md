@@ -1,7 +1,5 @@
 # $$\text{Cyrus Knopf}$$
->C++ for TuringDB
-
-
+$\text{C++ for TuringDB}$
 
 ---
 [CV](https://cyrusknopf.com/cv) 
