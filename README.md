@@ -1,4 +1,4 @@
-# `Cyrus Knopf`
+# $$\text{Cyrus Knopf}$$
 >C++ for TuringDB
 
 
